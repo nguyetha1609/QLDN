@@ -6,9 +6,6 @@
     
 <title>Trang chủ</title>
             <!-- App favicon -->
-            <link rel="shortcut icon" href="resources/images/favicon.ico">
-    <link rel="stylesheet" href="assets/libs/jsvectormap/css/jsvectormap.min.css">
-
      <!-- App css -->
         <?php
         require 'main.php';
@@ -29,72 +26,39 @@
         <div class="page-content">
             <div class="container-xxl">
                 <div class="row justify-content-center">
-                    <div class="col-md-6 col-lg-4">
+                    <div class="col-md-6 col-lg-12">
+                    <div class="card">
+
+                    <div class="card-body">
                         <div class="card">
-                            <div class="card-body">
-                                <div class="col-10"> 
-                                    <h3 class="mt-2 mb-0 bold">Sản phẩm</h3>
-                                </div>
-                            </div>
-                            <!--end card-body-->
+                                    <h3 class="text-dark mb-0 fw-semibold fs-14">shortcut</h3> 
                         </div>
                         <!--end card-->
+                        <div class="d-flex flex-wrap gap-2">
+                        <button type="button" class="btn rounded-pill btn-primary">Sản phẩm <i class="fa-solid fa-arrow-right-long"></i></button>
+                        <button type="button" class="btn rounded-pill btn-primary">Danh sách khách hàng <i class="fa-solid fa-arrow-right-long"></i></button>
+                        <button type="button" class="btn rounded-pill btn-primary">Nhà cung cấp <i class="fa-solid fa-arrow-right-long"></i></button>
+                        <button type="button" class="btn rounded-pill btn-primary">Hóa đơn bán hàng <i class="fa-solid fa-arrow-right-long"></i></button>
+                        <button type="button" class="btn rounded-pill btn-primary">Bảng thành tích <i class="fa-solid fa-arrow-right-long"></i></button> 
+                        <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
+                        <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
+                        <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
+                        <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
+                        <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
+                        <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
+                        <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
+
+                            </div>
+                            <!--end button-->
+                        </div>
+                            <!--end card-body-->
+                            </div>
+                            <!--end card-->
+                        </div>
+                         <!--end col-->
                     </div>
                     <!--end col-->
 
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card">
-                            <div class="card-body">
-                                <div class="col-10"> 
-                                    <h3 class="mt-2 mb-0 bold">Danh sách khách hàng</h3>
-                                </div>
-                            </div>
-                            <!--end card-body-->
-                        </div>
-                        <!--end card-->
-                    </div>
-                    <!--end col-->
-
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card">
-                            <div class="card-body">
-                                <div class="col-9"> 
-                                    <h3 class="mt-2 mb-0 bold">Nhà cung cấp</h3>
-                                </div>
-                            </div>
-                            <!--end card-body-->
-                        </div>
-                        <!--end card-->
-                    </div>
-                    <!--end col-->
-
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card">
-                            <div class="card-body">
-                                <div class="col-9"> 
-                                    <h3 class="mt-2 mb-0 bold">Hóa đơn bán hàng</h3>
-                                </div>
-                            </div>
-                            <!--end card-body-->
-                        </div>
-                        <!--end card-->
-                    </div>
-                    <!--end col-->
-
-                    <div class="col-md-6 col-lg-4">
-                        <div class="card">
-                            <div class="card-body">
-                                <div class="col-9"> 
-                                    <h3 class="mt-2 mb-0 bold">Bảng thành tích</h3>
-                                </div>
-                            </div>
-                            <!--end card-body-->
-                        </div>
-                        <!--end card-->
-                    </div>
-                    <!--end col-->
-                </div>
-                <!--end row-->
                 <div class="row justify-content-center">
                     <div class="col-md-6 col-lg-8">
                         <div class="card">
@@ -551,15 +515,6 @@
     <!-- Javascript  -->
     <!-- vendor js -->
     
-    <script src="assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/libs/simplebar/simplebar.min.js"></script>
-
-    <script src="assets/libs/apexcharts/apexcharts.min.js"></script>
-    <script src="assets/data/stock-prices.js"></script>
-    <script src="assets/libs/jsvectormap/js/jsvectormap.min.js"></script>
-    <script src="assets/libs/jsvectormap/maps/world.js"></script>
-    <script src="assets/js/pages/index.init.js"></script>
-    <script src="assets/js/app.js"></script>
 </body>
 <!--end body-->
 
