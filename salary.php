@@ -25,7 +25,7 @@
                                 <div class="card-header">
                                     <div class="row align-items-center">
                                         <div class="col">                      
-                                            <h4 class="card-title">Customers</h4>                      
+                                                                  
                                         </div><!--end col-->
                                         <div class="col-auto"> 
                                             <form class="row g-2">
@@ -68,7 +68,7 @@
                                                             <div class="form-check mb-2">
                                                                 <input type="checkbox" class="form-check-input" checked id="filter-five">
                                                                 <label class="form-check-label" for="filter-five">
-                                                                    Inactive
+                                                                    Đã bật
                                                                 </label>
                                                             </div>
                                                             <div class="form-check">
@@ -99,12 +99,11 @@
                                                         <input type="checkbox" class="form-check-input" name="select-all" id="select-all">                                                    
                                                     </div>
                                                 </th>
-                                                <th class="ps-0">Customer</th>
-                                                <th>Email</th>
-                                                <th>Status</th>
-                                                <th>Order</th>
-                                                <th>Spent</th>
-                                                <th class="text-end">Action</th>
+                                                <th class="ps-0">Tên</th>
+                                                <th>Tên viết tắt</th>
+                                                <th>Trạng thái</th>
+                                                <th>Mô tả</th>
+                                                <th>Action</th>
                                               </tr>
                                             </thead>
                                             <tbody>
@@ -121,12 +120,11 @@
                                                         </p>
                                                     </td>
                                                     <td><a href="#" class="d-inline-block align-middle mb-0 text-body">dummy@dummy.com</a> </td>
-                                                    <td><span class="badge bg-danger-subtle text-danger">VIP</span></td>
+                                                    <td><span class="badge bg-danger-subtle text-danger">Đã bật</span></td>
                                                     <td>75</td>
-                                                    <td>$280</td>
-                                                    <td class="text-end">                                                       
+                                                    <td class="text-center">                                                       
                                                         <a href="#"><i class="las la-pen text-secondary fs-18"></i></a>
-                                                        <a href="#"><i class="las la-trash-alt text-secondary fs-18"></i></a>
+                                                        <a href="#"><i class="far fa-file-alt text-secondary fs-18"></i></a>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -142,12 +140,11 @@
                                                         </p>
                                                     </td>
                                                     <td><a href="#" class="d-inline-block align-middle mb-0 text-body">fake@dummy.com</a> </td>
-                                                    <td><span class="badge bg-success-subtle text-success">Loyal</span></td>
+                                                    <td><span class="badge bg-success-subtle text-success">Đã bật</span></td>
                                                     <td>65</td>
-                                                    <td>$150</td>
-                                                    <td class="text-end">                                                       
+                                                    <td class="text-center">                                                       
                                                         <a href="#"><i class="las la-pen text-secondary fs-18"></i></a>
-                                                        <a href="#"><i class="las la-trash-alt text-secondary fs-18"></i></a>
+                                                        <a href="#"><i class="far fa-file-alt text-secondary fs-18"></i></a>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -163,12 +160,11 @@
                                                         </p>
                                                     </td>
                                                     <td><a href="#" class="d-inline-block align-middle mb-0 text-body">exemple@dummy.com</a> </td>
-                                                    <td><span class="badge bg-success-subtle text-success">Referral</span></td>
+                                                    <td><span class="badge bg-success-subtle text-success">Đã bật</span></td>
                                                     <td>32</td>
-                                                    <td>$39</td>
-                                                    <td class="text-end">                                                       
+                                                    <td class="text-center">                                                       
                                                         <a href="#"><i class="las la-pen text-secondary fs-18"></i></a>
-                                                        <a href="#"><i class="las la-trash-alt text-secondary fs-18"></i></a>
+                                                        <a href="#"><i class="far fa-file-alt text-secondary fs-18"></i></a>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -184,12 +180,11 @@
                                                         </p>
                                                     </td>
                                                     <td><a href="#" class="d-inline-block align-middle mb-0 text-body">only@dummy.com</a> </td>
-                                                    <td><span class="badge bg-secondary-subtle text-secondary">Inactive</span></td>
+                                                    <td><span class="badge bg-secondary-subtle text-secondary">Đã bật</span></td>
                                                     <td>40</td>
-                                                    <td>$170</td>
-                                                    <td class="text-end">                                                       
+                                                    <td class="text-center">                                                       
                                                         <a href="#"><i class="las la-pen text-secondary fs-18"></i></a>
-                                                        <a href="#"><i class="las la-trash-alt text-secondary fs-18"></i></a>
+                                                        <a href="#"><i class="far fa-file-alt text-secondary fs-18"></i></a>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -205,12 +200,11 @@
                                                         </p>
                                                     </td>
                                                     <td><a href="#" class="d-inline-block align-middle mb-0 text-body">dummy@exemple.com</a> </td>
-                                                    <td><span class="badge bg-success-subtle text-success">Re-Order</span></td>
+                                                    <td><span class="badge bg-success-subtle text-success">Đã bật</span></td>
                                                     <td>80</td>
-                                                    <td>$220</td>
-                                                    <td class="text-end">                                                       
+                                                    <td class="text-center">                                                       
                                                         <a href="#"><i class="las la-pen text-secondary fs-18"></i></a>
-                                                        <a href="#"><i class="las la-trash-alt text-secondary fs-18"></i></a>
+                                                        <a href="#"><i class="far fa-file-alt text-secondary fs-18"></i></a>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -226,12 +220,11 @@
                                                         </p>
                                                     </td>
                                                     <td><a href="#" class="d-inline-block align-middle mb-0 text-body">dummy2dummay@dummy.com</a> </td>
-                                                    <td><span class="badge bg-success-subtle text-success">New</span></td>
+                                                    <td><span class="badge bg-success-subtle text-success">Đã bật</span></td>
                                                     <td>45</td>
-                                                    <td>$120</td>
-                                                    <td class="text-end">                                                       
+                                                    <td class="text-center">                                                       
                                                         <a href="#"><i class="las la-pen text-secondary fs-18"></i></a>
-                                                        <a href="#"><i class="las la-trash-alt text-secondary fs-18"></i></a>
+                                                        <a href="#"><i class="far fa-file-alt text-secondary fs-18"></i></a>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -247,12 +240,11 @@
                                                         </p>
                                                     </td>
                                                     <td><a href="#" class="d-inline-block align-middle mb-0 text-body">dummy10@dummy.com</a> </td>
-                                                    <td><span class="badge bg-blue-subtle text-blue">Repeat</span></td>
+                                                    <td><span class="badge bg-blue-subtle text-blue">Đã bật</span></td>
                                                     <td>88</td>
-                                                    <td>$580</td>
-                                                    <td class="text-end">                                                       
+                                                    <td class="text-center">                                                       
                                                         <a href="#"><i class="las la-pen text-secondary fs-18"></i></a>
-                                                        <a href="#"><i class="las la-trash-alt text-secondary fs-18"></i></a>
+                                                        <a href="#"><i class="far fa-file-alt text-secondary fs-18"></i></a>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -268,12 +260,11 @@
                                                         </p>
                                                     </td>
                                                     <td><a href="#" class="d-inline-block align-middle mb-0 text-body">totaldummy@dummy.com</a> </td>
-                                                    <td><span class="badge bg-danger-subtle text-danger">VIP</span></td>
+                                                    <td><span class="badge bg-success-subtle text-success">Đã bật</span></td>
                                                     <td>124</td>
-                                                    <td>$380</td>
-                                                    <td class="text-end">                                                       
+                                                    <td class="text-center">                                                       
                                                         <a href="#"><i class="las la-pen text-secondary fs-18"></i></a>
-                                                        <a href="#"><i class="las la-trash-alt text-secondary fs-18"></i></a>
+                                                        <a href="#"><i class="far fa-file-alt text-secondary fs-18"></i></a>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -289,12 +280,11 @@
                                                         </p>
                                                     </td>
                                                     <td><a href="#" class="d-inline-block align-middle mb-0 text-body">Exemple@dummy.com</a> </td>
-                                                    <td><span class="badge bg-secondary-subtle text-secondary">Inactive</span></td>
+                                                    <td><span class="badge bg-secondary-subtle text-secondary">Đã bật</span></td>
                                                     <td>84</td>
-                                                    <td>$254</td>
-                                                    <td class="text-end">                                                       
+                                                    <td class="text-center">                                                       
                                                         <a href="#"><i class="las la-pen text-secondary fs-18"></i></a>
-                                                        <a href="#"><i class="las la-trash-alt text-secondary fs-18"></i></a>
+                                                        <a href="#"><i class="far fa-file-alt text-secondary fs-18"></i></a>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -310,12 +300,11 @@
                                                         </p>
                                                     </td>
                                                     <td><a href="#" class="d-inline-block align-middle mb-0 text-body">onlyfake@dummy.com</a> </td>
-                                                    <td><span class="badge bg-success-subtle text-success">Potential</span></td>
+                                                    <td><span class="badge bg-success-subtle text-success">Đã bật</span></td>
                                                     <td>62</td>
-                                                    <td>$225</td>
-                                                    <td class="text-end">                                                       
+                                                    <td class="text-center">                                                       
                                                         <a href="#"><i class="las la-pen text-secondary fs-18"></i></a>
-                                                        <a href="#"><i class="las la-trash-alt text-secondary fs-18"></i></a>
+                                                        <a href="#"><i class="far fa-file-alt text-secondary fs-18"></i></a>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -331,12 +320,11 @@
                                                         </p>
                                                     </td>
                                                     <td><a href="#" class="d-inline-block align-middle mb-0 text-body">exemple@exe.com</a> </td>
-                                                    <td><span class="badge bg-blue-subtle text-blue">Repeat</span></td>
+                                                    <td><span class="badge bg-blue-subtle text-blue">Đã bật</span></td>
                                                     <td>54</td>
-                                                    <td>$345</td>
-                                                    <td class="text-end">                                                       
+                                                    <td class="text-center">                                                       
                                                         <a href="#"><i class="las la-pen text-secondary fs-18"></i></a>
-                                                        <a href="#"><i class="las la-trash-alt text-secondary fs-18"></i></a>
+                                                        <a href="#"><i class="far fa-file-alt text-secondary fs-18"></i></a>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -352,12 +340,11 @@
                                                         </p>
                                                     </td>
                                                     <td><a href="#" class="d-inline-block align-middle mb-0 text-body">Exemple@dummy.com</a> </td>
-                                                    <td><span class="badge bg-success-subtle text-success">New</span></td>
+                                                    <td><span class="badge bg-success-subtle text-success">Đã bật</span></td>
                                                     <td>32</td>
-                                                    <td>$39</td>
-                                                    <td class="text-end">                                                       
+                                                    <td class="text-center">                                                       
                                                         <a href="#"><i class="las la-pen text-secondary fs-18"></i></a>
-                                                        <a href="#"><i class="las la-trash-alt text-secondary fs-18"></i></a>
+                                                        <a href="#"><i class="far fa-file-alt text-secondary fs-18"></i></a>
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -373,12 +360,11 @@
                                                         </p>
                                                     </td>
                                                     <td><a href="#" class="d-inline-block align-middle mb-0 text-body">Exemple@dummy.com</a> </td>
-                                                    <td><span class="badge bg-success-subtle text-success">New</span></td>
+                                                    <td><span class="badge bg-success-subtle text-success">Đã bật</span></td>
                                                     <td>32</td>
-                                                    <td>$39</td>
-                                                    <td class="text-end">                                                       
+                                                    <td class="text-center">                                                       
                                                         <a href="#"><i class="las la-pen text-secondary fs-18"></i></a>
-                                                        <a href="#"><i class="las la-trash-alt text-secondary fs-18"></i></a>
+                                                        <a href="#"><i class="far fa-file-alt text-secondary fs-18"></i></a>
                                                     </td>
                                                 </tr>                                                                                   
                                             </tbody>
