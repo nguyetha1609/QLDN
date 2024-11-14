@@ -56,7 +56,11 @@
                                         <a class="nav-link" href="loans.php">Khoản vay</a>
                                     </li><!--end nav-item-->
                                     <li class="nav-item">
+<<<<<<< HEAD
                                         <a class="nav-link" href="tables.php">Bảng lương</a>
+=======
+                                        <a class="nav-link" href="tables.php">bảng lương</a>
+>>>>>>> 564e7624d4fc94e6387abbeb161b9ef3b67c7a0f
                                     </li><!--end nav-item-->
                                     <li class="nav-item">
                                         <a class="nav-link" href="project.php">Dự án</a>

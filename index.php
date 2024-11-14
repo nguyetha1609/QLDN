@@ -27,37 +27,35 @@
             <div class="container-xxl">
                 <div class="row justify-content-center">
                     <div class="col-md-6 col-lg-12">
-                    <div class="card">
-
-                    <div class="card-body">
                         <div class="card">
+                            <div class="card-body">
+                                <div class="card">
                                     <h3 class="text-dark mb-0 fw-semibold fs-14">shortcut</h3> 
+                                </div>
+                                <!--end card-->
+                                <div class="d-flex flex-wrap gap-2">
+                                    <button type="button" class="btn rounded-pill btn-primary">Sản phẩm <i class="fa-solid fa-arrow-right-long"></i></button>
+                                    <button type="button" class="btn rounded-pill btn-primary">Danh sách khách hàng <i class="fa-solid fa-arrow-right-long"></i></button>
+                                    <button type="button" class="btn rounded-pill btn-primary">Nhà cung cấp <i class="fa-solid fa-arrow-right-long"></i></button>
+                                    <button type="button" class="btn rounded-pill btn-primary">Hóa đơn bán hàng <i class="fa-solid fa-arrow-right-long"></i></button>
+                                    <button type="button" class="btn rounded-pill btn-primary">Bảng thành tích <i class="fa-solid fa-arrow-right-long"></i></button> 
+                                    <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
+                                    <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
+                                    <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
+                                    <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
+                                    <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
+                                    <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
+                                    <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
+                                </div>
+                                <!--end button-->
+                            </div>
+                            <!--end card-body-->
                         </div>
                         <!--end card-->
-                        <div class="d-flex flex-wrap gap-2">
-                        <button type="button" class="btn rounded-pill btn-primary">Sản phẩm <i class="fa-solid fa-arrow-right-long"></i></button>
-                        <button type="button" class="btn rounded-pill btn-primary">Danh sách khách hàng <i class="fa-solid fa-arrow-right-long"></i></button>
-                        <button type="button" class="btn rounded-pill btn-primary">Nhà cung cấp <i class="fa-solid fa-arrow-right-long"></i></button>
-                        <button type="button" class="btn rounded-pill btn-primary">Hóa đơn bán hàng <i class="fa-solid fa-arrow-right-long"></i></button>
-                        <button type="button" class="btn rounded-pill btn-primary">Bảng thành tích <i class="fa-solid fa-arrow-right-long"></i></button> 
-                        <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
-                        <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
-                        <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
-                        <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
-                        <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
-                        <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
-                        <button type="button" class="btn rounded-pill btn-primary">More details <i class="fa-solid fa-arrow-right-long"></i></button>
-
-                            </div>
-                            <!--end button-->
-                        </div>
-                            <!--end card-body-->
-                            </div>
-                            <!--end card-->
-                        </div>
-                         <!--end col-->
                     </div>
                     <!--end col-->
+                </div>
+                <!--end col-->
 
                 <div class="row justify-content-center">
                     <div class="col-md-6 col-lg-8">

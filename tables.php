@@ -18,6 +18,7 @@
             <!-- Page Content-->
             <div class="page-content">
                 <div class="container-xxl">
+<<<<<<< HEAD
                     <div class="row justify-content-flex"> 
                         <div class="col-md-6 col-lg-6">
                             <div class="card">
@@ -79,10 +80,20 @@
                                     <div class="row align-items-center">
                                         <div class="col">                      
                                             <h4 class="card-title">Thuế</h4>                      
+=======
+                    <div class="row justify-content"> 
+                    <div class="col-md-6 col-lg-4 d-flex">
+                            <div class="card flex-fill">
+                                <div class="card-header">
+                                    <div class="row align-items-center">
+                                        <div class="col">                      
+                                            <h4 class="card-title">Bảng Lương</h4>                      
+>>>>>>> 564e7624d4fc94e6387abbeb161b9ef3b67c7a0f
                                         </div><!--end col-->
                                     </div>  <!--end row-->                                  
                                 </div><!--end card-header-->
                                 <div class="card-body pt-0">
+<<<<<<< HEAD
                                     <div class="table-responsive">
                                         <table class="table mb-0">
                                             <thead class="table-light">
@@ -133,6 +144,85 @@
                     </div><!--end row-->                                                                          
                 </div><!-- container -->
 
+=======
+                                    <ul class="list-group">
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>phần lương</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right me-2"></i>Cơ cấu tiền lương</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Chuyển nhượng cấu trúc lương</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Phiếu Lương</li></a>
+                                    </ul>
+                                </div><!--end card-body--> 
+                            </div><!--end card--> 
+                        </div><!--end col--> 
+                        <div class="col-md-6 col-lg-4 d-flex">
+                            <div class="card flex-fill">
+                                <div class="card-header">
+                                    <div class="row align-items-center">
+                                        <div class="col">                      
+                                            <h4 class="card-title">Taxation</h4>                      
+                                        </div><!--end col-->
+                                    </div>  <!--end row-->                                  
+                                </div><!--end card-header-->
+                                <div class="card-body pt-0">
+                                    <ul class="list-group">
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Kỳ tính lương</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Bảng thuế thu nhập</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Thu nhập khác của nhân viên</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Tuyên bố miễn thuế nhân viên</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Gửi bằng chứng miễn thuế cho nhân viên</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Danh mục miễn thuế của nhân viên</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Danh mục phụ miễn thuế cho nhân viên</li></a>
+                                    </ul>
+                                </div><!--end card-body--> 
+                            </div><!--end card--> 
+                        </div><!--end col-->
+                        <div class="col-md-6 col-lg-4 d-flex">
+                            <div class="card flex-fill">
+                                <div class="card-header">
+                                    <div class="row align-items-center">
+                                        <div class="col">                      
+                                            <h4 class="card-title">Taxation</h4>                      
+                                        </div><!--end col-->
+                                    </div>  <!--end row-->                                  
+                                </div><!--end card-header-->
+                                <div class="card-body pt-0">
+                                    <ul class="list-group">
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Kỳ tính lương</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Bảng thuế thu nhập</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Thu nhập khác của nhân viên</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Tuyên bố miễn thuế nhân viên</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Gửi bằng chứng miễn thuế cho nhân viên</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Danh mục miễn thuế của nhân viên</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Danh mục phụ miễn thuế cho nhân viên</li></a>
+                                    </ul>
+                                </div><!--end card-body--> 
+                            </div><!--end card--> 
+                        </div><!--end col-->
+                        <div class="col-md-6 col-lg-4 d-flex">
+                            <div class="card flex-fill">
+                                <div class="card-header">
+                                    <div class="row align-items-center">
+                                        <div class="col">                      
+                                            <h4 class="card-title">Taxation</h4>                      
+                                        </div><!--end col-->
+                                    </div>  <!--end row-->                                  
+                                </div><!--end card-header-->
+                                <div class="card-body pt-0">
+                                    <ul class="list-group">
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Kỳ tính lương</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Bảng thuế thu nhập</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Thu nhập khác của nhân viên</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Tuyên bố miễn thuế nhân viên</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Gửi bằng chứng miễn thuế cho nhân viên</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Danh mục miễn thuế của nhân viên</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Danh mục phụ miễn thuế cho nhân viên</li></a>
+                                    </ul>
+                                </div><!--end card-body--> 
+                            </div><!--end card--> 
+                        </div><!--end col-->
+                    </div><!--end row-->                                                                          
+                </div><!-- container -->
+>>>>>>> 564e7624d4fc94e6387abbeb161b9ef3b67c7a0f
                 <!--Start Rightbar-->
                 <!--Start Rightbar/offcanvas-->
                 <div class="offcanvas offcanvas-end" tabindex="-1" id="Appearance" aria-labelledby="AppearanceLabel">
