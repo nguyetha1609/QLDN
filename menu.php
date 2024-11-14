@@ -235,7 +235,8 @@
                                 aria-expanded="false" aria-controls="sidebarAuthentication">
                                 <i class="fas fa-user-alt menu-icon"></i>
                                 <span>Người sử dụng</span>
-                            </a>
+                                
+                            </a> 
                         </li><!--end nav-item-->
                     </ul><!--end navbar-nav--->
                 </div>
