@@ -19,21 +19,37 @@
             <div class="page-content">
                 <div class="container-xxl">
                     <div class="row justify-content"> 
+                    <div class="col-md-6 col-lg-12">
+                        <div class="card">
+                            <div class="card-body">
+                                <div class="card">
+                                    <h3 class="text-dark mb-0 fw-semibold fs-14">shortcut</h3> 
+                                </div><!--end card-->
+                            <div class="d-flex flex-wrap gap-2">
+                                <button type="button" class="btn rounded-pill btn-primary">Cơ cấu tiền lương<i class="fa-solid fa-arrow-right-long"></i></button>
+                                <button type="button" class="btn rounded-pill btn-primary">Phiếu lương <i class="fa-solid fa-arrow-right-long"></i></button>
+                                <button type="button" class="btn rounded-pill btn-primary">Bảng thuế thu nhập <i class="fa-solid fa-arrow-right-long"></i></button>
+                                <button type="button" class="btn rounded-pill btn-primary">Bảng lương <i class="fa-solid fa-arrow-right-long"></i></button>
+                                <button type="button" class="btn rounded-pill btn-primary">Bảng thông tin tổng hợp<i class="fa-solid fa-arrow-right-long"></i></button> 
+                            </div><!--end button-->
+                            </div><!--end card-body-->
+                        </div><!--end card-->
+                    </div><!--end col-->
                     <div class="col-md-6 col-lg-4 d-flex">
                             <div class="card flex-fill">
                                 <div class="card-header">
                                     <div class="row align-items-center">
                                         <div class="col">                      
-                                            <h4 class="card-title">Bảng Lương</h4>                      
+                                            <h4 class="card-title">Bảng lương</h4>                      
                                         </div><!--end col-->
                                     </div>  <!--end row-->                                  
                                 </div><!--end card-header-->
                                 <div class="card-body pt-0">
                                     <ul class="list-group">
-                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>phần lương</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i><a class="text-whte" href="salary.php">Phần lương</a></li></a>
                                         <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right me-2"></i>Cơ cấu tiền lương</li></a>
                                         <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Chuyển nhượng cấu trúc lương</li></a>
-                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Phiếu Lương</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Phiếu lương</li></a>
                                     </ul>
                                 </div><!--end card-body1--> 
                             </div><!--end card--> 
