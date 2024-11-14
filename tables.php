@@ -18,69 +18,6 @@
             <!-- Page Content-->
             <div class="page-content">
                 <div class="container-xxl">
-<<<<<<< HEAD
-                    <div class="row justify-content-flex"> 
-                        <div class="col-md-6 col-lg-6">
-                            <div class="card">
-                                <div class="card-header">
-                                    <div class="col">                      
-                                        <h4 class="card-title">Bảng lương</h4>                      
-                                    </div><!--end col-->                                  
-                                </div><!--end card-header-->
-                                <div class="card-body pt-0">
-                                    <div class="table-responsive">
-                                        <table class="table mb-0">
-                                            <thead class="table-light">
-                                            <tr>
-                                                <th>#</th>
-                                                <th>Name</th>
-                                                <th>Email</th>
-                                                <th>Access</th>
-                                            </tr>
-                                            </thead>
-                                            <tbody>
-                                            <tr>
-                                                <th scope="row">1</th>
-                                                <td>Mark</td>
-                                                <td>XYZ@Example.com</td>
-                                                <td><span class="badge bg-transparent border border-success text-success">Business</span></td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">2</th>
-                                                <td>Jacob</td>
-                                                <td>XYZ@Example.com</td>
-                                                <td><span class="badge bg-transparent border border-warning text-warning">Personal</span></td>                                                    
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">3</th>
-                                                <td>Larry</td>
-                                                <td>XYZ@Example.com</td>
-                                                <td><span class="badge bg-transparent border border-danger text-danger">Disabled</span></td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">4</th>
-                                                <td>Mark</td>
-                                                <td>XYZ@Example.com</td>
-                                                <td><span class="badge bg-transparent border border-success text-success">Business</span></td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">5</th>
-                                                <td>Jacob</td>
-                                                <td>XYZ@Example.com</td>
-                                                <td><span class="badge bg-transparent border border-warning text-warning">Personal</span></td>                                                    
-                                            </tr>
-                                            </tbody>
-                                        </table><!--end /table--> 
-                                    </div><!--end /tableresponsive-->       
-                                </div><!--end card-body--> 
-                            </div><!--end card--> 
-
-                            <div class="card">
-                                <div class="card-header">
-                                    <div class="row align-items-center">
-                                        <div class="col">                      
-                                            <h4 class="card-title">Thuế</h4>                      
-=======
                     <div class="row justify-content"> 
                     <div class="col-md-6 col-lg-4 d-flex">
                             <div class="card flex-fill">
@@ -88,63 +25,10 @@
                                     <div class="row align-items-center">
                                         <div class="col">                      
                                             <h4 class="card-title">Bảng Lương</h4>                      
->>>>>>> 564e7624d4fc94e6387abbeb161b9ef3b67c7a0f
                                         </div><!--end col-->
                                     </div>  <!--end row-->                                  
                                 </div><!--end card-header-->
                                 <div class="card-body pt-0">
-<<<<<<< HEAD
-                                    <div class="table-responsive">
-                                        <table class="table mb-0">
-                                            <thead class="table-light">
-                                            <tr>
-                                                <th>#</th>
-                                                <th>Name</th>
-                                                <th>Email</th>
-                                                <th>Access</th>
-                                            </tr>
-                                            </thead>
-                                            <tbody>
-                                            <tr>
-                                                <th scope="row">1</th>
-                                                <td>Mark</td>
-                                                <td>XYZ@Example.com</td>
-                                                <td><span class="badge bg-transparent border border-success text-success">Business</span></td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">2</th>
-                                                <td>Jacob</td>
-                                                <td>XYZ@Example.com</td>
-                                                <td><span class="badge bg-transparent border border-warning text-warning">Personal</span></td>                                                    
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">3</th>
-                                                <td>Larry</td>
-                                                <td>XYZ@Example.com</td>
-                                                <td><span class="badge bg-transparent border border-danger text-danger">Disabled</span></td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">4</th>
-                                                <td>Mark</td>
-                                                <td>XYZ@Example.com</td>
-                                                <td><span class="badge bg-transparent border border-success text-success">Business</span></td>
-                                            </tr>
-                                            <tr>
-                                                <th scope="row">5</th>
-                                                <td>Jacob</td>
-                                                <td>XYZ@Example.com</td>
-                                                <td><span class="badge bg-transparent border border-warning text-warning">Personal</span></td>                                                    
-                                            </tr>
-                                            </tbody>
-                                        </table><!--end /table--> 
-                                    </div><!--end /tableresponsive-->       
-                                </div><!--end card-body--> 
-                            </div><!--end card-->
-                        </div> <!--end col-->                                                       
-                    </div><!--end row-->                                                                          
-                </div><!-- container -->
-
-=======
                                     <ul class="list-group">
                                         <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>phần lương</li></a>
                                         <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right me-2"></i>Cơ cấu tiền lương</li></a>
@@ -222,7 +106,6 @@
                         </div><!--end col--> 
                     </div><!--end row-->                                                                          
                 </div><!-- container -->
->>>>>>> 564e7624d4fc94e6387abbeb161b9ef3b67c7a0f
                 <!--Start Rightbar-->
                 <!--Start Rightbar/offcanvas-->
                 <div class="offcanvas offcanvas-end" tabindex="-1" id="Appearance" aria-labelledby="AppearanceLabel">
