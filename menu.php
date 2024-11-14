@@ -56,26 +56,7 @@
                                         <a class="nav-link" href="loans.php">Khoản vay</a>
                                     </li><!--end nav-item-->
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#sidebarEcommerce" data-bs-toggle="collapse" role="button"
-                                            aria-expanded="false" aria-controls="sidebarEcommerce">                                        
-                                            <span>Bảng lương</span>
-                                        </a>
-                                        <div class="collapse ">
-                                            <ul class="nav flex-column">
-                                                <li class="nav-item">
-                                                    <a class="nav-link" href="ecommerce-products.php">Bảng lương</a>
-                                                </li><!--end nav-item-->
-                                                <li class="nav-item">
-                                                    <a class="nav-link" href="ecommerce-customers.php">Taxation</a>
-                                                </li><!--end nav-item-->
-                                                <li class="nav-item">
-                                                    <a class="nav-link" href="ecommerce-customer-details.php">Compensations</a>
-                                                </li><!--end nav-item-->
-                                                <li class="nav-item">
-                                                    <a class="nav-link" href="ecommerce-orders.php">Báo cáo</a>
-                                                </li><!--end nav-item-->
-                                            </ul><!--end nav-->
-                                        </div>
+                                        <a class="nav-link" href="tables.php">bảng lương</a>
                                     </li><!--end nav-item-->
                                     <li class="nav-item">
                                         <a class="nav-link" href="project.php">Dự án</a>
