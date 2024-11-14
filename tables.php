@@ -35,7 +35,7 @@
                                         <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Chuyển nhượng cấu trúc lương</li></a>
                                         <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Phiếu Lương</li></a>
                                     </ul>
-                                </div><!--end card-body--> 
+                                </div><!--end card-body1--> 
                             </div><!--end card--> 
                         </div><!--end col--> 
                         <div class="col-md-6 col-lg-4 d-flex">

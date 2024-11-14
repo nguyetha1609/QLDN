@@ -20,7 +20,7 @@
                     <!-- Navigation -->
                     <ul class="navbar-nav mb-auto w-100">
                         <li class="menu-label pt-0 mt-0">
-                            <!-- <small class="label-border">
+                            <!-- <small class="label-border1">
                                 <div class="border_left hidden-xs"></div>
                                 <div class="border_right"></div>
                             </small> -->
