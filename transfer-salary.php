@@ -82,7 +82,7 @@
                                                 </div><!--end col-->
                                                 
                                                 <div class="col-auto">
-                                                  <button type="button" class="btn btn-primary"  data-bs-toggle="modal" data-bs-target="#addBoard"><i class="fa-solid fa-plus me-1"></i>Thêm phần lương</button>
+                                                  <button type="button" class="btn btn-primary"  data-bs-toggle="modal" data-bs-target="#addBoard"><i class="fa-solid fa-plus me-1"></i>Thêm chuyển nhượng cấu trúc lương</button>
                                                 </div><!--end col-->
                                             </form>    
                                         </div><!--end col-->
@@ -429,8 +429,7 @@
                                         <p class="text-muted mb-0">
                                             ©
                                             <script> document.write(new Date().getFullYear()) </script>
-                                            Công ty M-offer
-                                            
+                                            Công ty M-offer  
                                         </p>
                                     </div>
                                 </div>
@@ -446,6 +445,4 @@
         <!-- end page-wrapper -->
     </body>
     <!--end body-->
-
-
 </html>

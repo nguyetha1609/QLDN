@@ -46,10 +46,10 @@
                                 </div><!--end card-header-->
                                 <div class="card-body pt-0">
                                     <ul class="list-group">
-                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i><a class="text-whte" href="salary.php">Phần lương</a></li></a>
-                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right me-2"></i>Cơ cấu tiền lương</li></a>
-                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Chuyển nhượng cấu trúc lương</li></a>
-                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Phiếu lương</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i><a href="salary.php">Phần lương</a></li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right me-2"></i><a href="salary-structure.php">Cơ cấu tiền lương</a></li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i><a href="transfer-salary.php">Chuyển nhượng cấu trúc lương</a></li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i><a href="payslip.php">Phiếu lương</a></li></a>
                                     </ul>
                                 </div><!--end card-body1--> 
                             </div><!--end card--> 
@@ -176,11 +176,7 @@
                                             ©
                                             <script> document.write(new Date().getFullYear()) </script>
                                             Công ty M-offer
-                                            <span
-                                                class="text-muted d-none d-sm-inline-block float-end">
-                                                Crafted with
-                                                <i class="iconoir-heart text-danger"></i>
-                                                by Mannatthemes</span>
+                                            
                                         </p>
                                     </div>
                                 </div>
