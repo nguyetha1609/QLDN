@@ -67,68 +67,7 @@
                             </div> <!--end row-->              
                         </div><!--end card-body--> 
                     </div><!--end card--> 
-                </div>
-
-                <div class="col-12">
-                    <div class="card">
-                        <div class="card-header">
-                        </div>
-                        <div class="card-body pt-0">
-                            <div class="row">
-                                <div class="col-lg-6">
-                                    <div class="mb-3 row">
-                                        <label for="example-text-input" class="col-sm-2 col-form-label text-end">Cơ sở</label>
-                                        <div class="col-sm-10">
-                                            <input class="form-control" type="text" id="example-text-input">
-                                        </div>
-                                    </div>                              
-                                </div><!--end col-->
-       
-                                <div class="col-lg-6">    
-                                    <div class="mb-3 row">
-                                        <label for="example-search-input" class="col-sm-2 col-form-label text-end">Biến số</label>
-                                        <div class="col-sm-10">
-                                            <input class="form-control" type="text" id="example-search-input">
-                                        </div>
-                                    </div>                                                                                                                 
-                                </div><!--end col-->
-                            </div> <!--end row-->              
-                        </div><!--end card-body--> 
-                    </div><!--end card--> 
-                </div>
-
-                <div class="col-12">
-                    <div class="card">
-                        <div class="card-header">
-                        </div>
-                        <div class="card-body pt-0">
-                            <div class="row">
-                                <div class="col-lg-6">
-                                    <div class="mb-3 row">
-                                        <label for="example-text-input" class="col-sm-2 col-form-label text-end">Taxable Earnings Till Date</label>
-                                        <div class="col-sm-10">
-                                            <input class="form-control" type="text" id="example-text-input">
-                                        </div>
-                                    </div>                              
-                                </div><!--end col-->
-       
-                                <div class="col-lg-6">    
-                                    <div class="mb-3 row">
-                                        <label for="example-search-input" class="col-sm-2 col-form-label text-end">Tax Deducted Till Date</label>
-                                        <div class="col-sm-10">
-                                            <input class="form-control" type="text" id="example-search-input">
-                                        </div>
-                                    </div>                                                                                                                 
-                                </div><!--end col-->
-                                <div class="row">
-                                        <div class="col-sm-12 text-end">
-                                            <button type="submit" class="btn btn-primary px-4">Lưu</button>
-                                        </div>
-                                    </div>   
-                            </div> <!--end row-->              
-                        </div><!--end card-body--> 
-                    </div><!--end card--> 
-                </div>
+                </div> 
             </div>
         </div>
     </div>

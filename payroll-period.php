@@ -82,7 +82,30 @@
                                                 </div><!--end col-->
                                                 
                                                 <div class="col-auto">
-                                                  <a class="text-white" href="/add/add-salary.php"><button type="button" class="btn btn-primary"  data-bs-toggle="modal" data-bs-target="#addBoard"><i class="fa-solid fa-plus me-1"></i>Thêm kỳ tính lương</button></a>
+                                                    <div style="align-self: flex-end;">
+                                                        <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#myModal" >
+                                                            Thêm kỳ tính lương
+                                                        </button>
+                                                    </div>
+                        
+                                                    <!-- Modal -->
+                                                    <div class="modal fade" id="myModal" tabindex="-1" aria-labelledby="myModalLabel" aria-hidden="true" data-bs-backdrop="static" data-bs-keyboard="false">
+                                                        <div class="modal-dialog">
+                                                            <div class="modal-content">
+                                                                <div class="modal-header" style="background-color: #22c55e ">
+                                                                    <h5 class="modal-title" id="myModalLabel">Thêm kỳ tính lương</h5>
+                                                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                                                                </div><!--end modal-header-->
+                                                                <div class="modal-body">                    
+                                                                </div><!--end modal-body-->
+                                                                <div class="modal-footer">
+                                                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Đóng</button>
+                                                                  
+                                                                    <button type="submit" class="btn btn-primary">Lưu</button>
+                                                                </div><!--end modal-footer-->                  
+                                                            </div><!--end modal-content-->
+                                                        </div><!--end modal-dialog-->
+                                                    </div><!--end modal fade-->
                                                 </div><!--end col-->
                                             </form>    
                                         </div><!--end col-->
