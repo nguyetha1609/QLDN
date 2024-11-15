@@ -8,7 +8,7 @@
             <!-- App favicon -->
      <!-- App css -->
         <?php
-        require 'main.php';
+        require 'bootstrap.php';
         ?>
 </head>
 

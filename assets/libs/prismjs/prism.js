@@ -133,7 +133,7 @@ var Prism = (function (_self) {
 			/**
 			 * Creates a deep clone of the given object.
 			 *
-			 * The main intended use of this function is to clone language definitions.
+			 * The bootstrap intended use of this function is to clone language definitions.
 			 *
 			 * @param {T} o
 			 * @param {Record<number, any>} [visited]
@@ -392,7 +392,7 @@ var Prism = (function (_self) {
 			 *
 			 * ## Limitations
 			 *
-			 * The main problem `insertBefore` has to solve is iteration order. Since ES2015, the iteration order for object
+			 * The bootstrap problem `insertBefore` has to solve is iteration order. Since ES2015, the iteration order for object
 			 * properties is guaranteed to be the insertion order (except for integer keys) but some browsers behave
 			 * differently when keys are deleted and re-inserted. So `insertBefore` can't be implemented by temporarily
 			 * deleting properties which is necessary to insert at arbitrary positions.
@@ -556,7 +556,7 @@ var Prism = (function (_self) {
 		 * to improve performance and avoid blocking the UI when highlighting very large chunks of code. This option is
 		 * [disabled by default](https://prismjs.com/faq.html#why-is-asynchronous-highlighting-disabled-by-default).
 		 *
-		 * Note: All language definitions required to highlight the code must be included in the main `prism.js` file for
+		 * Note: All language definitions required to highlight the code must be included in the bootstrap `prism.js` file for
 		 * asynchronous highlighting to work. You can build your own bundle on the
 		 * [Download page](https://prismjs.com/download.html).
 		 * @param {HighlightCallback} [callback] An optional callback to be invoked after the highlighting is done.

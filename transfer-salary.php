@@ -7,7 +7,7 @@
         <link href="assets/libs/simple-datatables/style.css" rel="stylesheet" type="text/css" />
          <!-- App css -->
         <?php
-            require 'main.php';
+            require 'bootstrap.php';
         ?>
     </head>
         <?php
@@ -82,7 +82,7 @@
                                                 </div><!--end col-->
                                                 
                                                 <div class="col-auto">
-                                                  <button type="button" class="btn btn-primary"  data-bs-toggle="modal" data-bs-target="#addBoard"><i class="fa-solid fa-plus me-1"></i>Thêm chuyển nhượng cấu trúc lương</button>
+                                                  <button type="button" class="btn btn-primary"  data-bs-toggle="modal" data-bs-target="#addBoard"><i class="fa-solid fa-plus me-1"></i><a class="text-white" href="/add/add-transfer-salary.php">Thêm chuyển nhượng cấu trúc lương</a></button>
                                                 </div><!--end col-->
                                             </form>    
                                         </div><!--end col-->

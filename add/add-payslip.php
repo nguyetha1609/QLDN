@@ -1,19 +1,18 @@
-<!DOCTYPE html>
 <html>
-<head>
-    <?php         
-        require '../bootstrap.php';
-    ?>
-</head>
-<body>
+    <head>
+        <?php         
+            require '../bootstrap.php';
+        ?> 
+    </head>
+    <body>
     <?php
         require '../topbar.php';
         require '../menu.php';
-    ?>     
+    ?>
     <div class="page-wrapper">
         <div class="page-content">
             <div class="container-xxl">
-                <div class="row">
+            <div class="row">
                     <div class="card">
                         <div class="card-header">
                             <div class="row align-items-center">
@@ -82,9 +81,9 @@
                             </div> <!--end row-->              
                         </div><!--end card-body--> 
                     </div><!--end cart-->
-                </div><!--end row-->
-            </div><!--end container-xxl-->
-        </div><!--end page-content-->
-    </div><!--end page-wrapper-->
-</body>
+                </div><!--end row-->                
+            </div>
+        </div>
+    </div>
+    </body>
 </html>
