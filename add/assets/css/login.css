@@ -1,0 +1,49 @@
+.toolbar{
+    background-color: white;
+    height: 50px;
+    padding-top: 16px;
+    padding-left: 30px;
+}
+.container{
+    background-color: #f4f1f1;
+    height: 580px;
+}
+
+body{
+    font-size: 20px;
+}
+.login input{
+    border: none;
+    height: 30px;width: 300px;
+    margin-bottom: 1rem;
+    border-radius: 5px;
+    background-color: #f4f1f1;
+    padding: 3px 7px;
+}
+.click{
+    border-radius: 5px;
+    background-color: #2490EF;
+    font-size: 20px;
+    color: white;
+    width: 300px;
+    border-color:rgb(126, 167, 229);
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin: 7px;
+}
+.lg{
+    width: 400px;
+    background-color: white;
+    margin: auto;
+    padding:45px 0px 45px 0px;
+    border-radius: 10px;
+    box-shadow: #f4f1f1;
+}
+.total{
+    padding: 89px 0px 89px 0px;
+}
+h3{
+    margin: 10px;
+}
