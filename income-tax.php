@@ -82,7 +82,7 @@
                                                 </div><!--end col-->
                                                 
                                                 <div class="col-auto">
-                                                  <a class="text-white" href="/add/add-salary.php"><button type="button" class="btn btn-primary"  data-bs-toggle="modal" data-bs-target="#addBoard"><i class="fa-solid fa-plus me-1"></i>Thêm phần lương</button></a>
+                                                  <a class="text-white" href="/add/add-income-tax.php"><button type="button" class="btn btn-primary"  data-bs-toggle="modal" data-bs-target="#addBoard"><i class="fa-solid fa-plus me-1"></i>Thêm bảng thuế thu nhập</button></a>
                                                 </div><!--end col-->
                                             </form>    
                                         </div><!--end col-->

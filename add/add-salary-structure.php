@@ -34,13 +34,13 @@
                                     <div class="mb-3 row">
                                         <label for="example-email-input" class="col-sm-2 col-form-label text-end">Công ty</label>
                                         <div class="col-sm-10">
-                                            <input class="form-control" type="email" id="example-email-input" required>
+                                            <input class="form-control" type="text" id="example-email-input" required>
                                         </div>
                                     </div> 
                                     <div class="mb-3 row">
                                         <label for="example-tel-input" class="col-sm-2 col-form-label text-end">Tiêu đề thư</label>
                                         <div class="col-sm-10">
-                                            <input class="form-control" type="tel" id="example-tel-input">
+                                            <input class="form-control" type="text" id="example-tel-input">
                                         </div>
                                     </div>                          
                                 </div><!--end col-->
