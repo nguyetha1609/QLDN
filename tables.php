@@ -66,12 +66,12 @@
                                 <div class="card-body pt-0">
                                     <ul class="list-group">
                                         <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i><a href="payroll-period.php">Kỳ tính lương</a></li></a>
-                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Bảng thuế thu nhập</li></a>
-                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Thu nhập khác của nhân viên</li></a>
-                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Tuyên bố miễn thuế nhân viên</li></a>
-                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Gửi bằng chứng miễn thuế cho nhân viên</li></a>
-                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Danh mục miễn thuế của nhân viên</li></a>
-                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i>Danh mục phụ miễn thuế cho nhân viên</li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i><a href="income-tax.php">Bảng thuế thu nhập</a></li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i><a href="other-income.php">Thu nhập khác của nhân viên</a></li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i><a href="declaration.php">Tuyên bố miễn thuế nhân viên</a></li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i><a href="proof.php">Gửi bằng chứng miễn thuế cho nhân viên</a></li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i><a href="categories.php">Danh mục miễn thuế của nhân viên</a></li></a>
+                                        <li class="list-group-item list-group-item-action"><a href="#" class="text-dark"><i class="la la-arrow-right text-secondary me-2"></i><a href="subcategories.php">Danh mục phụ miễn thuế cho nhân viên</a></li></a>
                                     </ul>
                                 </div><!--end card-body--> 
                             </div><!--end card--> 

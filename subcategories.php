@@ -82,7 +82,7 @@
                                                 </div><!--end col-->
                                                 
                                                 <div class="col-auto">
-                                                  <button type="button" class="btn btn-primary"  data-bs-toggle="modal" data-bs-target="#addBoard"><i class="fa-solid fa-plus me-1"></i><a class="text-white" href="/add/add-transfer-salary.php">Thêm chuyển nhượng cấu trúc lương</a></button>
+                                                  <a class="text-white" href="/add/add-salary.php"><button type="button" class="btn btn-primary"  data-bs-toggle="modal" data-bs-target="#addBoard"><i class="fa-solid fa-plus me-1"></i>Thêm danh mục phụ miễn thuế cho nhân viên</button></a>
                                                 </div><!--end col-->
                                             </form>    
                                         </div><!--end col-->
@@ -100,9 +100,8 @@
                                                     </div>
                                                 </th>
                                                 <th class="ps-0">Tên</th>
-                                                <th>Tên viết tắt</th>
-                                                <th>Trạng thái</th>
-                                                <th>Mô tả</th>
+                                                <th>Danh mục miễn thuế</th>
+                                                <th>Số tiền tối đa</th>
                                                 <th>Bình luận</th>
                                               </tr>
                                             </thead>
@@ -120,7 +119,7 @@
                                                         </p>
                                                     </td>
                                                     
-                                                    
+                                                    <td><span class="badge bg-danger-subtle text-danger">Đã bật</span></td>
                                                     <td>75</td>
                                                     <td class="text-center">                                                       
                                                         <a href="#"></a>
@@ -429,7 +428,8 @@
                                         <p class="text-muted mb-0">
                                             ©
                                             <script> document.write(new Date().getFullYear()) </script>
-                                            Công ty M-offer  
+                                            Công ty M-offer
+                                            
                                         </p>
                                     </div>
                                 </div>
@@ -445,4 +445,6 @@
         <!-- end page-wrapper -->
     </body>
     <!--end body-->
+
+
 </html>

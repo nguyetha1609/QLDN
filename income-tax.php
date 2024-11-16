@@ -82,7 +82,7 @@
                                                 </div><!--end col-->
                                                 
                                                 <div class="col-auto">
-                                                  <button type="button" class="btn btn-primary"  data-bs-toggle="modal" data-bs-target="#addBoard"><i class="fa-solid fa-plus me-1"></i><a class="text-white" href="/add/add-transfer-salary.php">Thêm chuyển nhượng cấu trúc lương</a></button>
+                                                  <a class="text-white" href="/add/add-salary.php"><button type="button" class="btn btn-primary"  data-bs-toggle="modal" data-bs-target="#addBoard"><i class="fa-solid fa-plus me-1"></i>Thêm phần lương</button></a>
                                                 </div><!--end col-->
                                             </form>    
                                         </div><!--end col-->
@@ -100,9 +100,7 @@
                                                     </div>
                                                 </th>
                                                 <th class="ps-0">Tên</th>
-                                                <th>Tên viết tắt</th>
-                                                <th>Trạng thái</th>
-                                                <th>Mô tả</th>
+                                                <th>Có hiệu lực từ</th>
                                                 <th>Bình luận</th>
                                               </tr>
                                             </thead>
@@ -429,7 +427,8 @@
                                         <p class="text-muted mb-0">
                                             ©
                                             <script> document.write(new Date().getFullYear()) </script>
-                                            Công ty M-offer  
+                                            Công ty M-offer
+                                            
                                         </p>
                                     </div>
                                 </div>

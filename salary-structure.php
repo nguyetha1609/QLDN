@@ -100,9 +100,7 @@
                                                     </div>
                                                 </th>
                                                 <th class="ps-0">Tên</th>
-                                                <th>Tên viết tắt</th>
-                                                <th>Trạng thái</th>
-                                                <th>Mô tả</th>
+                                                <th>Là hoạt động</th>
                                                 <th>Bình luận</th>
                                               </tr>
                                             </thead>
@@ -119,8 +117,8 @@
                                                             <span class="font-13 fw-medium">Andy Timmons</span> 
                                                         </p>
                                                     </td>
-                                                    <td><a href="#" class="d-inline-block align-middle mb-0 text-body">dummy@dummy.com</a> </td>
-                                                    <td><span class="badge bg-danger-subtle text-danger">Đã bật</span></td>
+                                                    
+                                                    
                                                     <td>75</td>
                                                     <td class="text-center">                                                       
                                                         <a href="#"></a>
@@ -139,8 +137,8 @@
                                                             <span class="font-13 fw-medium">Jeff Beck</span> 
                                                         </p>
                                                     </td>
-                                                    <td><a href="#" class="d-inline-block align-middle mb-0 text-body">fake@dummy.com</a> </td>
-                                                    <td><span class="badge bg-success-subtle text-success">Đã bật</span></td>
+                                                    
+                                                    
                                                     <td>65</td>
                                                     <td class="text-center">                                                       
                                                         <a href="#"></a>
@@ -159,8 +157,8 @@
                                                             <span class="font-13 fw-medium">Vince Nelson</span> 
                                                         </p>
                                                     </td>
-                                                    <td><a href="#" class="d-inline-block align-middle mb-0 text-body">exemple@dummy.com</a> </td>
-                                                    <td><span class="badge bg-success-subtle text-success">Đã bật</span></td>
+                                                    
+                                                    
                                                     <td>32</td>
                                                     <td class="text-center">                                                       
                                                         <a href="#"></a>
@@ -179,8 +177,8 @@
                                                             <span class="font-13 fw-medium">David Gilmour</span> 
                                                         </p>
                                                     </td>
-                                                    <td><a href="#" class="d-inline-block align-middle mb-0 text-body">only@dummy.com</a> </td>
-                                                    <td><span class="badge bg-secondary-subtle text-secondary">Đã bật</span></td>
+                                                    
+                                                    
                                                     <td>40</td>
                                                     <td class="text-center">                                                       
                                                         <a href="#"></a>
@@ -199,8 +197,8 @@
                                                             <span class="font-13 fw-medium">Dianna Smiley</span> 
                                                         </p>
                                                     </td>
-                                                    <td><a href="#" class="d-inline-block align-middle mb-0 text-body">dummy@exemple.com</a> </td>
-                                                    <td><span class="badge bg-success-subtle text-success">Đã bật</span></td>
+                                                    
+                                                    
                                                     <td>80</td>
                                                     <td class="text-center">                                                       
                                                         <a href="#"></a>
@@ -220,7 +218,7 @@
                                                         </p>
                                                     </td>
                                                     <td><a href="#" class="d-inline-block align-middle mb-0 text-body">dummy2dummay@dummy.com</a> </td>
-                                                    <td><span class="badge bg-success-subtle text-success">Đã bật</span></td>
+                                                    
                                                     <td>45</td>
                                                     <td class="text-center">                                                       
                                                         <a href="#"></a>
@@ -240,7 +238,7 @@
                                                         </p>
                                                     </td>
                                                     <td><a href="#" class="d-inline-block align-middle mb-0 text-body">dummy10@dummy.com</a> </td>
-                                                    <td><span class="badge bg-blue-subtle text-blue">Đã bật</span></td>
+                                                    
                                                     <td>88</td>
                                                     <td class="text-center">                                                       
                                                         <a href="#"></a>
@@ -260,7 +258,7 @@
                                                         </p>
                                                     </td>
                                                     <td><a href="#" class="d-inline-block align-middle mb-0 text-body">totaldummy@dummy.com</a> </td>
-                                                    <td><span class="badge bg-success-subtle text-success">Đã bật</span></td>
+                                                    
                                                     <td>124</td>
                                                     <td class="text-center">                                                       
                                                         <a href="#"></a>
@@ -279,8 +277,8 @@
                                                             <span class="font-13 fw-medium">Robert Lewis</span> 
                                                         </p>
                                                     </td>
-                                                    <td><a href="#" class="d-inline-block align-middle mb-0 text-body">Exemple@dummy.com</a> </td>
-                                                    <td><span class="badge bg-secondary-subtle text-secondary">Đã bật</span></td>
+                                                    
+                                                    
                                                     <td>84</td>
                                                     <td class="text-center">                                                       
                                                         <a href="#"></a>
@@ -300,7 +298,7 @@
                                                         </p>
                                                     </td>
                                                     <td><a href="#" class="d-inline-block align-middle mb-0 text-body">onlyfake@dummy.com</a> </td>
-                                                    <td><span class="badge bg-success-subtle text-success">Đã bật</span></td>
+                                                    
                                                     <td>62</td>
                                                     <td class="text-center">                                                       
                                                         <a href="#"></a>
@@ -320,7 +318,7 @@
                                                         </p>
                                                     </td>
                                                     <td><a href="#" class="d-inline-block align-middle mb-0 text-body">exemple@exe.com</a> </td>
-                                                    <td><span class="badge bg-blue-subtle text-blue">Đã bật</span></td>
+                                                    
                                                     <td>54</td>
                                                     <td class="text-center">                                                       
                                                         <a href="#"></a>
@@ -339,8 +337,8 @@
                                                             <span class="font-13 fw-medium">Wendy Keen</span> 
                                                         </p>
                                                     </td>
-                                                    <td><a href="#" class="d-inline-block align-middle mb-0 text-body">Exemple@dummy.com</a> </td>
-                                                    <td><span class="badge bg-success-subtle text-success">Đã bật</span></td>
+                                                    
+                                                    
                                                     <td>32</td>
                                                     <td class="text-center">                                                       
                                                         <a href="#"></a>
@@ -359,8 +357,8 @@
                                                             <span class="font-13 fw-medium">Wendy Keen</span> 
                                                         </p>
                                                     </td>
-                                                    <td><a href="#" class="d-inline-block align-middle mb-0 text-body">Exemple@dummy.com</a> </td>
-                                                    <td><span class="badge bg-success-subtle text-success">Đã bật</span></td>
+                                                    
+                                                    
                                                     <td>32</td>
                                                     <td class="text-center">                                                       
                                                         <a href="#"></a>
