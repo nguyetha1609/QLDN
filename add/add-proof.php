@@ -105,7 +105,13 @@
                             </div>                                   
                         </div><!--end card-body--> 
                     </div><!--end card-->  
-                </div> 
+                </div><!--end col-->
+                
+                <div class="row">
+                    <div class="col-sm-12 text-end">
+                        <button type="submit" class="btn btn-primary px-4">Lưu</button>
+                    </div>
+                </div> <!--end row--> 
             </div>
         </div>
     </div>
