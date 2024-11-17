@@ -74,17 +74,47 @@
                                                 </label>
                                             </div>  
                                         </div><!--end card-body-->
-                                    </div> 
-                                       
-                                    <div class="row">
-                                        <div class="col-sm-12 text-end">
-                                            <button type="submit" class="btn btn-primary px-4">Lưu</button>
-                                        </div>
-                                    </div>                                         
+                                    </div>                                                                
                                 </div><!--end col-->
                             </div> <!--end row-->              
                         </div><!--end card-body--> 
                     </div><!--end cart-->
+
+                    <div class="card">
+                        <div class="card-header">
+                            <div class="row align-items-center">
+                                <div class="col">                      
+                                    <h4 class="card-title">Bảng lương chịu thuế</h4>                      
+                                </div><!--end col-->
+                            </div>  <!--end row-->                                  
+                        </div><!--end card-header-->
+                        <div class="card-body pt-0">
+                            <div class="col-lg-6">
+                                <div class="mb-3">
+                                    <label class="form-label">Từ số tiền</label>
+                                    <input type="number" class="form-control">
+                                </div>
+                                <div class="mb-3">
+                                    <label  class="form-label">Đến số tiền</label>
+                                    <input type="number" class="form-control">
+                                </div>
+                                <div class="mb-3">
+                                    <label  class="form-label">Phần trăm khấu trừ</label>
+                                    <input type="number" class="form-control">
+                                </div>
+                                <div class="mb-3">
+                                    <label class="form-label">Điều kiện</label>
+                                    <input type="text" class="form-control">
+                                </div>
+                            </div>                    
+                        </div><!--end card-body--> 
+                    </div><!--end card--> 
+
+                    <div class="row">
+                        <div class="col-sm-12 text-end">
+                            <button type="submit" class="btn btn-primary px-4">Lưu</button>
+                        </div>
+                    </div> 
                 </div><!--end row-->
             </div><!--end container-xxl-->
         </div><!--end page-content-->

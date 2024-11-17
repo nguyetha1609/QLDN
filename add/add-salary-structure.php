@@ -72,17 +72,75 @@
                                         <div class="col-sm-10">
                                             <input type="text" class="form-control form-control-warning" id="inputHorizontalWarning" required>
                                         </div>
-                                    </div>
-                                    <div class="row">
-                                        <div class="col-sm-12 text-end">
-                                            <button type="submit" class="btn btn-primary px-4">Lưu</button>
-                                        </div>
-                                    </div>                                         
+                                    </div>                                       
                                 </div><!--end col-->
                             </div> <!--end row-->              
                         </div><!--end card-body--> 
                     </div><!--end cart-->
                 </div><!--end row-->
+
+                <div class="row justify-content-center">
+                    <div class="col-md-6 col-lg-6">
+                        <div class="card">
+                            <div class="card-header">
+                                <div class="row align-items-center">
+                                    <div class="col">                      
+                                        <h4 class="card-title">Thu nhập</h4>                      
+                                    </div><!--end col-->
+                                </div>  <!--end row-->                                  
+                            </div><!--end card-header-->
+                            <div class="card-body pt-0">
+                                <form>
+                                    <div class="mb-3">
+                                    <label class="form-label">Hợp phần</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                    <div class="mb-3">
+                                        <label class="form-label">Viết tắt</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                    <div class="mb-3">
+                                        <label class="form-label">Số tiền</label>
+                                        <input type="number" class="form-control">
+                                    </div>
+                                </form>                
+                            </div><!--end card-body--> 
+                        </div><!--end card--> 
+                    </div> <!--end col--> 
+                    <div class="col-md-6 col-lg-6">
+                        <div class="card">
+                            <div class="card-header">
+                                <div class="row align-items-center">
+                                    <div class="col">                      
+                                        <h4 class="card-title">Các khoản giảm trừ</h4>                      
+                                    </div><!--end col-->
+                                </div>  <!--end row-->                                  
+                            </div><!--end card-header-->
+                            <div class="card-body pt-0">
+                            <form>
+                                    <div class="mb-3">
+                                    <label class="form-label">Hợp phần</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                    <div class="mb-3">
+                                        <label class="form-label">Viết tắt</label>
+                                        <input type="text" class="form-control">
+                                    </div>
+                                    <div class="mb-3">
+                                        <label class="form-label">Số tiền</label>
+                                        <input type="number" class="form-control">
+                                    </div>
+                                </form>                      
+                            </div><!--end card-body--> 
+                        </div><!--end card--> 
+                    </div> <!--end col-->                                                       
+                </div>
+
+                <div class="row">
+                    <div class="col-sm-12 text-end">
+                        <button type="submit" class="btn btn-primary px-4">Lưu</button>
+                    </div>
+                </div> <!--end row--> 
             </div><!--end container-xxl-->
         </div><!--end page-content-->
     </div><!--end page-wrapper-->

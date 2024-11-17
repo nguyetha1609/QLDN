@@ -59,37 +59,35 @@
                     <div class="card">
                         <div class="card-header">
                             <div class="row align-items-center">
-                                <div class="col">
-                                    <h4 class="card-title">Chứng từ miễn thuế</h4>
+                                <div class="col">                      
+                                    <h4 class="card-title">Chứng từ miễn thuế</h4>                      
                                 </div><!--end col-->
-                            </div><!--end row-->
+                            </div>  <!--end row-->                                  
                         </div><!--end card-header-->
                         <div class="card-body pt-0">
-                            <div class="table-responsive">
-                            <table class="table table-bordered">
-                                <thead class="table-light">
-                                    <tr>
-                                        <th>STT</th>
-                                        <th>Danh mục phụ miễn</th>
-                                        <th>Danh mục miễn</th>
-                                        <th>Số tiền tối đa</th>
-                                        <th>Loại bằng chứng</th>
-                                        <th>Số tiền thực tế</th>
-                                        <th><i class="far fa-sun"></i></th>
-                                    </tr>
-                                </thead>
-                                <tbody>
-                                    <tr>
-                                        <td>0</td>
-                                        <td>1</td>
-                                        <td>2</td>
-                                        <td>3</td>
-                                        <td>4</td>
-                                    </tr>
-                                </tbody>
-                            </table>
-                            </div>
-                        </div>
+                            <div class="col-lg-6">
+                                <div class="mb-3">
+                                    <label class="form-label">Danh mục phụ miễn</label>
+                                    <input type="number" class="form-control">
+                                </div>
+                                <div class="mb-3">
+                                    <label  class="form-label">Danh mục miễn</label>
+                                    <input type="number" class="form-control">
+                                </div>
+                                <div class="mb-3">
+                                    <label  class="form-label">Số tiền tối đa</label>
+                                    <input type="number" class="form-control">
+                                </div>
+                                <div class="mb-3">
+                                    <label class="form-label">Loại bằng chứng</label>
+                                    <input type="text" class="form-control">
+                                </div>
+                                <div class="mb-3">
+                                    <label class="form-label">Số tiền thực tế</label>
+                                    <input type="text" class="form-control">
+                                </div>
+                            </div>                    
+                        </div><!--end card-body--> 
                     </div><!--end card-->
 
                     <div class="card">
